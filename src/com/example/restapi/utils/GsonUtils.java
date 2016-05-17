@@ -1,4 +1,4 @@
-package com.example.restapi;
+package com.example.restapi.utils;
 
 import com.google.gson.Gson;
 import com.google.gson.GsonBuilder;

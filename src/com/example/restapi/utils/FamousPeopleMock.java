@@ -1,9 +1,8 @@
-package com.example.restapi.mock;
+package com.example.restapi.utils;
 
 import java.util.ArrayList;
 import java.util.List;
 
-import com.example.restapi.GsonUtils;
 import com.example.restapi.model.FamousPeople;
 
 public class FamousPeopleMock  {
